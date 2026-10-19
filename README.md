@@ -9,15 +9,7 @@ Interactive Power BI dashboard analyzing sales, revenue, product performance, an
 - [References](#references)
 - [Limitation](#limitations)
 - [Key Analysis & Findings](#key-analysis--findings)
--  ## 📑 Table of Contents
-
-- [Key Features](#key-features)
-- [Tools Used](#tools-used)
-- [Objective](#objective)
-- [Business Recommendations](#business-recommendations)
-- [References](#references)
-- [Limitations](#limitations)
-- [Key Analysis & Findings](#key-analysis--findings)
+  
 
 
 
