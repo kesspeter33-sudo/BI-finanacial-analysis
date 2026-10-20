@@ -1,20 +1,22 @@
+
 # BI-finanacial-analysis
 Interactive Power BI dashboard analyzing sales, revenue, product performance, and business KPIs.
 ## Table of contents
 - [Key Features](#key-features)
 - [Tools Used](#tools-used)
 - [Objective](#objective)
-- [Data Analysis & Dax measusres](#data-analysis--dax-measures)
-- [Business Recommendations](#business-recommendations)
-- [References](#references)
-- [Limitation](#limitations)
 - [Key Analysis & Findings](#key-analysis--findings)
-  
-
 
 
 ## Project Overview
 An interactive Power BI dashboard designed to analyze automotive sales and financial performance. It highlights key metrics such as net sales, total profit, profit margin, and total orders.
+
+<img width="908" height="508" alt="Screenshot 2026-10-14 101445" src="https://github.com/user-attachments/assets/1c5ef3d8-0239-4625-9cbf-790379509e76" />
+
+
+
+
+
 
 ## Key Features
 - Monthly profit trends
